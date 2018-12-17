@@ -9,6 +9,10 @@ $(document).ready(function(){
 		$('.EN2').toggleClass('ENshow2')
 	});
 
+	$('.btnEN3').click(function(){
+		$('.EN3').toggleClass('ENshow3')
+	});
+
 
 
 	// page 4. 

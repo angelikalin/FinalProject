@@ -355,4 +355,71 @@ div.ENshow2 p{
 	font-size: 1em;
 }
 
+/*all right the third one*/
+div.EN3{
+	display: none;
+	z-index: 50;
+}
+
+div.ENshow3{
+	position: fixed;
+
+	top: 0;
+	bottom: 0;
+	left:0
+	right:0;
+	display: block;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	opacity: 0.9;
+	z-index: 50;	
+	transition: opacity 1.25s;	
+}
+button.btnEN3{
+	display: inline;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	text-transform: uppercase;
+	color: black;
+	font-weight: 200;
+	text-align: center;
+	position: relative;
+	background-color: white;
+	opacity: 0.8;
+	border:0.1em solid #000000;
+	padding: 1em 4em 1em 4em;
+	margin: 1em;
+	text-align: center;
+	margin-left: 10%;
+}
+
+button.btnEN3:hover{
+	background-color:#7B7F69;
+	color: white;
+	border: 0.1em solid #ffffff;
+}
+
+button#btnOut3{
+	position: relative;
+	display: inline-block;
+	left: 50px;
+	text-align: center;
+}
+
+#btnIn3{
+	position: fixed;
+	bottom: 10%;
+	left: 25%;
+}
+
+div.ENshow3 p{
+	text-align: center;
+	margin: 25% 20% 0 20%;
+	color: white;
+	z-index: 0;	
+	text-align: justify;
+	font-size: 1em;
+}
+
 

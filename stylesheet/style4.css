@@ -354,7 +354,8 @@ ul li{
 }
 
 .active, .dot:hover{
-	background-color: #717171;
+	background-color: #C6CCA9;
+;
 }
 
 ul.dotfam{
@@ -364,6 +365,7 @@ ul.dotfam{
 	left:2vh;
 	bottom: 5vh;
 	z-index: 200;
+	margin-left: 50px;
 }
 
 ul li{
@@ -386,6 +388,7 @@ ul li{
 	display: inline-block;
 	vertical-align: middle;
 	width: 60%;
+	transition: 0.8s all
 }
 
 
