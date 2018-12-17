@@ -1,0 +1,20 @@
+final:
+- create a pin-trest board - as literal / or abstract -- there are chrome extension 
+- a style guide again
+	color palatte: limit this! (color swatches, Hex or HSL code)
+	typography: include size and examples
+		ex-- TIMES NEW ROMAN 
+				Header (48px) specify your size
+				Paragraph (12px) illustrate from big to small fonts 
+- minimum of 5 pages 
+- wireframes (illustrator or drawing - does not matter)
+
+- CSS 
+- JS/Jquery (doesn't have to be on all pages)
+
+
+DON'Ts: 
+- NO frameworks 
+- No 3rd party plugins 
+- NO copy & paste
+
